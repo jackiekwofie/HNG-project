@@ -1,5 +1,3 @@
-bash
-Copy code
 #!/bin/bash
 
 # Check if the input file exists
