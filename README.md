@@ -21,6 +21,8 @@ Example:
 alice;admin
 bob;users
 charlie;
+
+
 Run the script:
 
 # Ensure the script is executable:
